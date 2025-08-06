@@ -3,4 +3,6 @@ package org.example.task.lamdas.task3;
 public interface StringProcess {
     String processString(String input);
 
+
+
 }
